@@ -1,0 +1,9 @@
+ spring:
+   datasource:
+     username: root
+     password: 
+     url: jdbc:mysql://localhost:3306/fornecedor
+   jpa:
+     hibernate:
+       ddl-auto: update
+       
